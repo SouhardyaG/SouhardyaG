@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently working with python and cloud as a site reliability engineer in **CME Group**
 
-- 💬 Ask me about **Google Cloud**
+- 💬 Ask me about **Kubernetes, Google Cloud**
 
 - 📫 How to reach me **sunsouhardya@gmail.com**
 
