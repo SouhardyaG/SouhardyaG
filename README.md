@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/_souhardyag" target="blank"><img src="https://img.shields.io/twitter/follow/_souhardyag?logo=twitter&style=for-the-badge" alt="_souhardyag" /></a> </p>
 
-- 🌱 I’m currently learning **Deep Learning**
+- 🌱 I’m currently working with python and cloud as a site reliability engineer in **CME Group**
 
-- 💬 Ask me about **Tensorflow**
+- 💬 Ask me about **Google Cloud**
 
 - 📫 How to reach me **sunsouhardya@gmail.com**
 
